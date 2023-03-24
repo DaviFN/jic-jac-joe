@@ -1,0 +1,11 @@
+body {
+    background-color: blueviolet;
+}
+
+div {
+    background-color: rgb(54, 201, 21);
+}
+
+#scoreboard {
+    font-size: 60px;
+}
