@@ -1,1 +1,1 @@
-Just a simple tic-tac-toe game, cuz why not
+Simple tic-tac-toe game in vanilla JavaScript
